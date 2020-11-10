@@ -7,7 +7,7 @@ to do this you can reflect the puck by placing your paddle infront of the puck
 you may also change the movement of the puck up or down by having your paddle hit it whilst moving
 
 # improvements
--fix the collitions so the paddles cannot catch the puck when it moves past the front face of the paddle
+-fix the collisions so the paddles cannot catch the puck when it moves past the front face of the paddle
 
 # Refences to code used
 Real Python (2019). PyGame: A Primer on Game Programming in Python. [online] Realpython.com. Available at: https://realpython.com/pygame-a-primer/#sprites [Accessed 10 Nov. 2020].
